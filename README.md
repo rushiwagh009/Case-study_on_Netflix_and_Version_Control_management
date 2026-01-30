@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 # DevOps Principles: Netflix Case Study & Version Control
 
 This repository serves as a portfolio project analyzing Netflix's industry-leading DevOps practices, microservices architecture, and version control strategies. It is based on a detailed case study of how Netflix manages its massive global infrastructure.
@@ -97,7 +95,7 @@ Effective version control is critical for collaboration. This project follows a 
 2. **Pull Requests (PR)**: Code is reviewed before merging to `main`.
 3. **Merge Conflicts**: Conflicts are resolved locally before completing the merge.
 
----
+
 
 ## References
 - [Netflix TechBlog](https://netflixtechblog.com/)
